@@ -1,4 +1,4 @@
-# World Wide Web Receitas
+# Site de Receitas para um Canal do YouTube
 
 Sistema que permite a exibição de receitas completas de um canal do YouTube
 
